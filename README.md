@@ -21,6 +21,6 @@
 
 ###
 
-<p align="left"><a href="https://luizcarvalhosilva.github.io/imc-web-app/" target="blank">site</a></p>
+<p align="left"><a href="https://luizcarvalhosilva.github.io/imc-web-app/" target="_blank">site</a></p>
 
 ###
